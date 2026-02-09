@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>VOGUE Youth |متجر التركي للملابس والماركات الكمبالية</title>
+    <title>متجر التركي للملابس و|الماركات الكمبالية</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap" rel="stylesheet">
     <style>
@@ -14,7 +14,7 @@
 <body>
 
     <nav class="sticky top-0 z-50 glass border-b border-gray-200 p-4 flex justify-between items-center">
-        <h1 class="text-2xl font-bold tracking-tighter text-black">VOGUE <span class="text-indigo-600">YOUTH</span></h1>
+        <h1 class="text-2xl font-bold tracking-tighter text-black">تركي  <span class="text-indigo-600">استارH</span></h1>
         <div class="space-x-4 space-x-reverse">
             <button class="relative">
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -57,7 +57,7 @@
             <h3 class="font-bold text-lg mb-4">تواصل معنا</h3>
             <div class="flex justify-center gap-6 mb-6">
                 <a href="https://wa.me/123456789" class="text-green-500 font-bold text-sm">0961920882</a>
-                <a href="https://instagram.com" class="text-pink-500 font-bold text-sm">abdo.M</a>
+                <a href="https://instagram.com" class="text-pink-500 font-bold text-sm">مايو سوق ستة القديم .</a>
                 <a href="mailto:info@vogue.com" class="text-blue-500 font-bold text-sm">abdalrazigmohmmed94@gmail.com</a>
             </div>
             <p class="text-gray-400 text-xs">© 2026 VOGUE YOUTH. جميع الحقوق محفوظة.</p>
